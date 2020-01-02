@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Dibawah ini yang merupakan kerusakan pada mouse kecuali…",
+        "2": "Cara mengatasi kerusakan mouse berupa pointer mouse tidak berjalan normal yaitu dengan…",
+        "3": "Jika terjadi masalah double click pada mouse perlu dilakukan konfigurasi yaitu…",
+        "4": "Penyebab yang mungkin terjadi pada permasalahan keyboar error yaitu…",
+        "5": "Apa yang akan terjadi jika printer berbunyi beep yang berulang...",
+        "6": "Pada perangkat output salah satunya printer memiliki permasalahan yaitu salah satunya hasil cetakan bergaris atau pudar, hal ini memiliki penyebab yaitu…",
+        "7": "Solusi jika terjadi permaslahan hasil cetakan dari printer tidak keluar sama sekali yaitu, kecuali…",
+        "8": "Permasalahan yang terjadi ketika mencetak dokumen dengan printer salah satunya permasalahan pada kertas printer yang macet atau paper jam, solusi dari permasalahan itu adalah…",
+        "9": "Permasalahan printer yaiut kertas pada printer macet salah satunya permasalahan pada kertas printer yang macet, nama lain dari kertas macet...",
+        "10": "Dibawah ini yang bukan merupakan solusi dari permasalahan printer tidak mengenali cartridge yang baru dipasang yaitu…"
+    },
+    {
+        "1": {
+            "a": "Pointer Mouse tidak bergerak",
+            "b": "Pointer mouse tidak berjalan dengan normal",
+            "c": "Pointer mouse terlalu cepat atau terlalu lambat bergerak",
+            "d": "Pointer mouse bergerak normal dan stabil"
+        },
+        "2": {
+            "a": "Membersihkan mouse pad dari debu",
+            "b": "Membongkar mouse",
+            "c": "Mengganti mouse pad dengan buku",
+            "d": "Mengganti kabel mouse"
+        },
+        "3": {
+            "a": "Control panel>hardware and sound>windows mobility center",
+            "b": "Control panel>hardware and sound>device and printer>add device",
+            "c": "Control panel>hardware and sound>device and printer>mouse",
+            "d": "Control panel>hardware and sound>device and printer>device manager"
+        },
+        "4": {
+            "a": "Connector keyboard renggang",
+            "b": "Debu yang menempel pada alas keyboard",
+            "c": "Kabel data keyboard terkena air",
+            "d": "IC Controller pada keyboard terkena debu"
+        },
+        "5": {
+            "a": "Kertas Kosong",
+            "b": "Tinta Kosong",
+            "c": "Dokumen Kosong",
+            "d": "Printer Mencetak"
+        },
+        "6": {
+            "a": "Pada hasil cetakan terkena cahaya matahari",
+            "b": "Cartridge pada printer terkena air",
+            "c": "Tinta pada printer hanya ada warna hitam",
+            "d": "Terdapat gelembung udara didalam cartridge"
+        },
+        "7": {
+            "a": "Membersihkan cartridge dengan cara head cleaning",
+            "b": "Mengocok cartridge 3 sampai 4 sebelum memasang",
+            "c": "Membuang label pengaman agar udara mengalir",
+            "d": "Membuang cartridge dan label pengaman"
+        },
+        "8": {
+            "a": "Mengganti ketebalan kertas yang dipakai",
+            "b": "Menempelkan kertas satu sama lain",
+            "c": "Membatasi tebal tumpukan kertas sesuai kapasitas",
+            "d": "Mematikan printer dan mengisi tinta printer"
+        },
+        "9": {
+            "a": "Paper Jam",
+            "b": "Traffic Jam",
+            "c": "Pineapple Jam",
+            "d": "Printer Jam"
+        },
+        "10": {
+            "a": "Memasang kembali cartridge dengan benar",
+            "b": "Mengecek rangkaian jika ada yang rusak",
+            "c": "Membersihkan chip dengan kain kotor",
+            "d": "Mematikan dan menghidupkan printer"
+        }
+    },
+    {
+        "1": "Pointer mouse bergerak normal dan stabil",
+        "2": "Membersihkan mouse pad dari debu",
+        "3": "Control panel>hardware and sound>device and printer>mouse",
+        "4": "Connector keyboard renggang",
+        "5": "Tinta Kosong",
+        "6": "Terdapat gelembung udara didalam cartridge",
+        "7": "Membuang cartridge dan label pengaman",
+        "8": "Membatasi tebal tumpukan kertas sesuai kapasitas",
+        "9": "Paper Jam",
+        "10": "Dengan cara membersihkan chip dengan kain kotor"
+    }
+]

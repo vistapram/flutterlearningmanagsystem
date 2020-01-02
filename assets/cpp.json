@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Berikut ini manakah pernyataan interkoneksi atar computer yang benar...:",
+        "2": "Berikut ini manakah peralatan utama dari interkoneksi komputer...:",
+        "3": "Bagaimana antar komputer berhubungan serta mengatur koneksi yang ada, itulah yang disebut dengan.. :",
+        "4": "Bila suatu network berada dalam satu lokasi (contoh dalam satu gedung) maka disebut sebagai..:",
+        "5": "Di bawah ini termasuk fungsi jaringan, kecuali...",
+        "6": "Dalam suatu jaringan komputer kita bisa saling berbagi pemakaian sumber daya, yang disebut dengan...",
+        "7": "Kita dapat memanfaatkan jaringan komputer untuk mengadakan percakapan jarak jauh yang dikenal dengan...",
+        "8": "Tipe jaringan yang memilki karakteristik semua workstation (node) pada jaringan ini dikelola oleh pengontrol Domain disebut...",
+        "9": "Tipe jaringan yang memilki karakteristik Tidak ada perbedaan sistem operasi antara PC yang berfungsi sebagai client maupun server disebut...",
+        "10": "Berikut ini yang merupakan pengertian dari acces poit yang benar adalah..."
+    },
+    {
+        "1": {
+            "a": "Menghubungkan antar computer dalam satu tempat",
+            "b": "Menghubungkan computer dengan handphone",
+            "c": "Menghubungkan computer dengan internet",
+            "d": "Memutuskan hubangan atar komputer"
+        },
+        "2": {
+            "a": "Monitor",
+            "b": "Kabel utp",
+            "c": "Mouse",
+            "d": "Keyboard"
+        },
+        "3": {
+            "a": "Stand Alone",
+            "b": "Networking",
+            "c": "LAN",
+            "d": "WAN"
+        },
+        "4": {
+            "a": "Stand Alone",
+            "b": "Networking",
+            "c": "LAN",
+            "d": "WAN"
+        },
+        "5": {
+            "a": "Berbagi pemakaian sumber daya",
+            "b": "Teleconference meeting",
+            "c": "Internet",
+            "d": "Resource Disable"
+        },
+        "6": {
+            "a": "Sharing",
+            "b": "Chatting",
+            "c": "E-mail",
+            "d": "Browsing"
+        },
+        "7": {
+            "a": "Chating",
+            "b": "E-mail",
+            "c": "Browsing",
+            "d": "Teleconference meeting"
+        },
+        "8": {
+            "a": "Client – Server",
+            "b": "Diskless",
+            "c": "Peer to peer",
+            "d": "Client"
+        },
+        "9": {
+            "a": "Client – Server",
+            "b": "Domain",
+            "c": "Pear to pear",
+            "d": "Client"
+        },
+        "10": {
+            "a": "AP yaitu sebuah perangkat penghubung antar computer",
+            "b": "AP yaitu sebuah perangkat pemutus antar computer",
+            "c": "AP yaitu sebuah perangkat penghubung antar handphone",
+            "d": "AP yaitu sebuah perangkat pemutus antar handphone"
+        }
+    },
+    {
+        "1": "Menghubungkan antar computer dalam satu tempat",
+        "2": "Kabel utp",
+        "3": "Networking",
+        "4": "LAN",
+        "5": "Resource Disable",
+        "6": "Sharing",
+        "7": "Teleconference meeting",
+        "8": "Client – Server",
+        "9": "Peer to peer",
+        "10": "AP yaitu sebuah perangkat penghubung antar computer"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Peralatan yang mendukung sebuah personal komputer itu disebut dengan ...",
+        "2": "Berikut adalah peralatan yang digunakan untuk membersihkan komputer, kecuali ...",
+        "3": "Alat yang tepat untuk membersihkan mainboard dan sudut-sudut casing komputer adalah..",
+        "4": "Kotoran berbentuk cair dibersihkan menggunakan...",
+        "5": "Kuas digunakan untuk membersih bagian komputer...",
+        "6": "Alat yang digunakan untuk membersihkan floppy drive adalah...",
+        "7": "Alat yang digunakan untuk membersihkan CD ROM atau CD RW adalah...",
+        "8": "Untuk merawat harddiks dari sisi software digunakan tool..?",
+        "9": "Fan pada hardisk berfungsi sebagai...",
+        "10": "Tool yang digunakan untuk memeriksa struktur file sistem, tabel lokasi file (file allocation table) disebut dengan.."
+    },
+    {
+        "1": {
+            "a": "Periperal komputer",
+            "b": "Bagian komputer",
+            "c": "Mouse",
+            "d": "Keyboard"
+        },
+        "2": {
+            "a": "Cairan pembersih",
+            "b": "Sapu",
+            "c": "Kuas",
+            "d": "Kain kering"
+        },
+        "3": {
+            "a": "Tang",
+            "b": "Lap kering",
+            "c": "Obeng",
+            "d": "Penyedot debu mini"
+        },
+        "4": {
+            "a": "Kuas",
+            "b": "Cairan pembersih",
+            "c": "Sapu",
+            "d": "Lap kering"
+        },
+        "5": {
+            "a": "Fentilasi casing, motherboard,prosesor",
+            "b": "Prosesor, disk, mouse",
+            "c": "Fentilasi casing, prosesor, disk",
+            "d": "Disk, motherboard, mouse"
+        },
+        "6": {
+            "a": "Disk Cleaner",
+            "b": "Penyedot Debu mini",
+            "c": "Kuas",
+            "d": "Cairan pembersih"
+        },
+        "7": {
+            "a": "Disk Cleaner",
+            "b": "Penyedot Debu mini",
+            "c": "Kuas",
+            "d": "CD Cleaner"
+        },
+        "8": {
+            "a": "Hard disk",
+            "b": "Direct X",
+            "c": "Disk defragmenter",
+            "d": "CD cleaner"
+        },
+        "9": {
+            "a": "Membersihkan hardisk",
+            "b": "Mengurangi panas hardisk",
+            "c": "Mewarnai hardisk",
+            "d": "Memperbaiki hardisk"
+        },
+        "10": {
+            "a": "Floppy drive",
+            "b": "Harddisk",
+            "c": "CD ROM",
+            "d": "Scandisk"
+        }
+    },
+    {
+        "1": "Periperal komputer",
+        "2": "Sapu",
+        "3": "Penyedot debu mini",
+        "4": "Lap kering",
+        "5": "Fentilasi casing, motherboard,prosesor",
+        "6": "Disk Cleaner",
+        "7": "CD Cleaner",
+        "8": "Disk defragmenter",
+        "9": "Mengurangi panas hardisk",
+        "10": "Scandisk"
+    }
+]

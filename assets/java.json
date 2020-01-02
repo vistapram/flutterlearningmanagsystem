@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Pencarian kesalahan pada komputer sering disebut;",
+        "2": "Mengidentifikasi permasalahan pada computer dapat dilakukan melaui",
+        "3": "Masalah pada perangkat keras dikelompokkan menjadi 2, yaitu ....",
+        "4": "Masalah pada perangkat lunak diklasifikasikan menjadi 3 yaitu ...",
+        "5": " Beberapa pesan teks BIOS yang sering muncul adalah ....",
+        "6": "Berikut adalah beberapa produsen BIOS, kecuali ....",
+        "7": "Beberapa hal yang berhubungan dengan kesalahan yang terjadi selama proses POST adalah, kecuali ....",
+        "8": "Berikut yang merupakan gejala kerusakan pada DVD-ROM adalah ...",
+        "9": "Untuk mengetahui kondisi disk drive, dapat dilakukan dengan mencoba memasukkan ...",
+        "10": "Untuk mengetahui kondisi CD-ROM atau CD-RW masih baik atau tidak, dapat dilakukan dengan  cara ..."
+    },
+    {
+        "1": {
+            "a": "Troubleshooting",
+            "b": "Bluescreen ",
+            "c": "Blackscreen",
+            "d": "Computer hang"
+        },
+        "2": {
+            "a": "BIOS",
+            "b": "Kernel",
+            "c": "POST",
+            "d": "Scandisk"
+        },
+        "3": {
+            "a": "Input dan output",
+            "b": "Hardware dan software",
+            "c": "Internal dan eksternal",
+            "d": "Eksternal dan hardware"
+        },
+        "4": {
+            "a": "Program aplikasi, DBMS, program pengolah kata",
+            "b": "BIOS, sistem operasi, program aplikasi",
+            "c": "Hardware, software, brainware",
+            "d": "ALU, control unit, Main Memory"
+        },
+        "5": {
+            "a": "1xx",
+            "b": "301",
+            "c": " Beep pendek berulang – ulang",
+            "d": "HDD not instal"
+        },
+        "6": {
+            "a": "Award BIOS",
+            "b": "Macintosh BIOS",
+            "c": "IBM BIOS",
+            "d": "AMI BIOS"
+        },
+        "7": {
+            "a": "Power on selt-test",
+            "b": "Basic system error",
+            "c": "Extended system error",
+            "d": "Display error"
+        },
+        "8": {
+            "a": "Tidak dapat booting",
+            "b": "Bunyi beep",
+            "c": "Tidak dapat membaca kaset DVD",
+            "d": "Monitor tidak dapat menyala"
+        },
+        "9": {
+            "a": "CD",
+            "b": "Flashdisk",
+            "c": "Kabel data",
+            "d": "Disk"
+        },
+        "10": {
+            "a": "Menambah prosesor",
+            "b": "Mengganti harddisk",
+            "c": "Memasukkan CD",
+            "d": "Menambahkan harddisk"
+        }
+    },
+    {
+        "1": "Troubleshooting",
+        "2": "POST",
+        "3": "Input dan output",
+        "4": "BIOS, sistem operasi, program aplikasi",
+        "5": "HDD not instal",
+        "6": "Macintosh BIOS",
+        "7": "Power on selt-test",
+        "8": "Tidak dapat membaca kaset DVD",
+        "9": "Disk",
+        "10": "Memasukkan CD"
+    }
+]

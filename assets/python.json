@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Berikut ini yang bukan termasuk kedalam tiga komponen utama dari komputer yaitu...",
+        "2": "Berikut ini yang termasuk kedalam komponen peripheral utama adalah...",
+        "3": "Berikut ini yang bukan termasuk ke dalam komponen peripheral pendukung adalah...",
+        "4": "Dalam computer yang digunakan dalam kehidupan kita sehari hari, Perangkat yang digunakan untuk memasukan data atau perintah kedalam komputer, kecuali...",
+        "5": "Apa yang dimaksud dengan peripheral komputer...",
+        "6": "Webcam adalah sebuah kamera digital dalam membantu atau mencoba bertatap muka dengan orang yang satu dan yang lain,penggunaaannya  yang unik dan cara penyambungannya yaitu...",
+        "7": "Berdasarkan kegunaan peripheral, terbagi menjadi dua yaitu...",
+        "8": "Di bawah ini adalah jenis-jenis keyboard, kecuali...",
+        "9": "Berikut ini adalah salah satu peripheral input adalah...",
+        "10": "Berikut ini yang merupakan salah satu peripheral output adalah..."
+    },
+    {
+        "1": {
+            "a": "Hardware",
+            "b": "Mouse",
+            "c": "Software",
+            "d": "Brainware"
+        },
+        "2": {
+            "a": "Speaker",
+            "b": "Printer",
+            "c": "Web cam",
+            "d": "Keyboard"
+        },
+        "3": {
+            "a": "Speaker",
+            "b": "Printer",
+            "c": "Web cam",
+            "d": "Monitor"
+        },
+        "4": {
+            "a": "Mouse",
+            "b": "Touchscreen",
+            "c": "Monitor",
+            "d": "Keyboard"
+        },
+        "5": {
+            "a": "Perangkat tambahan untuk memasukan dan mendapatkan informasi ke/dari computer",
+            "b": "Untuk penambahan kapasitas pada random access memory",
+            "c": "Untuk pengiriman data dari satu komputer ke komputer lain",
+            "d": "Untuk menghapus data data yang tidak digunakan oleh computer"
+        },
+        "6": {
+            "a": "Menggunakan port usb",
+            "b": "Menggunakan alamat ip",
+            "c": "Menggunakan jaringan local",
+            "d": "Semua jawaban benar"
+        },
+        "7": {
+            "a": "Main peripheral dan peripheral output",
+            "b": "Main peripheral dan peripheral pendukung",
+            "c": " Peripheral input dan pendukung peripheral",
+            "d": "Peripheral input dan peripheral output"
+        },
+        "8": {
+            "a": "QWERTY",
+            "b": "DVORAK",
+            "c": "KLOCKENBERG",
+            "d": "GHDWQJH"
+        },
+        "9": {
+            "a": "Monitor",
+            "b": "Scanner",
+            "c": "Keyboard",
+            "d": "Barcode"
+        },
+        "10": {
+            "a": "Monitor",
+            "b": "Keyboard",
+            "c": "Mouse",
+            "d": "Touchscreen"
+        }
+    },
+    {
+        "1": "Mouse",
+        "2": "Keyboard",
+        "3": "Monitor",
+        "4": "Monitor",
+        "5": "Adalah perangkat tambahan yang digunakan untuk memasukan dan mendapatkan informasi ke/dari computer",
+        "6": "Menggunakan port usb",
+        "7": "Main peripheral dan peripheral pendukung",
+        "8": "GHDWQJH",
+        "9": "Keyboard",
+        "10": "Monitor"
+    }
+]
